@@ -1,0 +1,19 @@
+{
+  "name": "iotchess",
+  "version": "1.0.0",
+  "description": "Play Chess Via Email Using IOT Button Actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "{ \"serialNumber\": \"G030JF057091WLGR\",   \"batteryVoltage\": \"1647mV\",   \"clickType\": \"SINGLE\" }"
+  },
+  "keywords": [
+    "iot",
+    "consept",
+    "demonstration",
+    "chess.js",
+    "email",
+    "chess"
+  ],
+  "author": "ebjones",
+  "license": "ISC"
+}

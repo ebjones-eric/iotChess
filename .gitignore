@@ -3,3 +3,4 @@ deploy.env
 event.json
 log.txt
 .zip
+.DS_Store
